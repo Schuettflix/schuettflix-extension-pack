@@ -41,3 +41,6 @@ It's intension is to simplify and speedup onboarding.
 * zhuangtongfa.material-theme
 
 **Enjoy!**
+
+## Thanks
+Extension was created following ["How to Create an Extension Pack for Visual Studio Code"](https://www.software.com/src/how-to-create-an-extension-pack-for-visual-studio-code)
