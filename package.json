@@ -3,10 +3,10 @@
     "displayName": "Schüttflix Extension Pack",
     "description": "A set of VS Code extensions used by Schüttflix development teams.",
     "publisher": "rwloch",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
-        "url": "https://github.com/robert-wloch-schuettflix/schuettflix-extension-pack"
+        "url": "https://github.com/Schuettflix/schuettflix-extension-pack"
     },
     "icon": "apple-touch-icon.png",
     "engines": {
